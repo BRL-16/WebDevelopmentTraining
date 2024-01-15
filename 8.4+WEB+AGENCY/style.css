@@ -12,11 +12,6 @@ body {
   flex: 1
 }
 
-
-
-
-
-
 span{
   color: blue;
 }
@@ -45,6 +40,8 @@ footer {
 footer{
   clear: both;
 }
+
+
 
 
 
