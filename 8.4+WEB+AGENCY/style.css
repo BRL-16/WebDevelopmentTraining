@@ -9,43 +9,62 @@ body {
 }
 
 .main{
-  flex: 1
+  flex: 1;
+  background-color: cadetblue;
 }
-
-
-
-
-
 
 span{
   color: blue;
 }
-h1 {
-  font-size: 5rem;
+
+p{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
 }
+
 
 footer {
   text-align: right;
   color: midnightblue;
 }
-
-.left-card{
-  float: left !important;
-  width: 25%;
-  display: block;
-  
+.card{
+  width: 45%;
 }
-.right-card{
-  float: right !important;
-  width: 25%;
-  display: block;
-}
-
 
 footer{
   clear: both;
+  color: midnightblue
 }
 
+h1{
+  font-size: 2.5rem;
+}
+
+p{
+
+}
+
+
+.tile-image{
+  margin-right: 50px;
+  height: 200px;
+  float: left;
+}
+
+.left-card{
+  float: left;
+
+  
+}
+.right-card{
+  float:right;
+}
+.tile-image{
+  size: 2rem;
+}
 
 
 @media (min-width: 500px) and (max-width: 601px){
