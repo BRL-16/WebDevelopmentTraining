@@ -35,10 +35,16 @@ h2{
   font-weight: bold;
 }
 
-footer {
-  text-align: right;
-  color: midnightblue;
-}
+.card-title
+  {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+    }
+
 .card{
   width: 45%;
 }
@@ -51,11 +57,6 @@ footer{
 h1{
   font-size: 2.5rem;
 }
-
-p{
-
-}
-
 
 .tile-image{
   margin-right: 50px;
