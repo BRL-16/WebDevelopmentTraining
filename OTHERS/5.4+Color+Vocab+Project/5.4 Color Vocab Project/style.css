@@ -1,0 +1,31 @@
+[id="red"]
+{
+    color: red;
+}
+[id="green"]
+{
+    color: green;
+}
+
+[id="blue"]
+{
+    color: blue;
+}
+
+[id="orange"]
+{
+    color: orange;
+}
+
+[id="yellow"]
+{
+    color: yellow;
+}
+
+p{
+    font-weight: normal;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
